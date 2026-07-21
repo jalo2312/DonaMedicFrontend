@@ -2,7 +2,7 @@
 
 App móvil del proyecto **DonaMedic**, una plataforma para donar y solicitar medicamentos entre usuarios. Construida con **React Native + Expo** (Expo Router), en TypeScript.
 
-Este frontend consume la API del repositorio [DonaMedicBackend](../DonaMedicBackend).
+Este frontend consume la API del repositorio [DonaMedicBackend](https://github.com/jalo2312/DonaMedicBackend).
 
 ## Tecnologías
 
